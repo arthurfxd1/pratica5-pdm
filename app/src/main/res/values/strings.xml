@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">cartao digital</string>
+    <string name="my_name">seu nome completo</string>
+    <string name="my_profession">desenvolvedor android / estudante</string>
+    <string name="btn_details">ver detalhes</string>
+    <string name="btn_contact">contato</string>
+    <string name="title_details">meu curriculo</string>
+    <string name="title_contact">informacoes de contato</string>
+    <string name="label_phone">telefone: +5511999999999</string>
+    <string name="label_email">email: seuemail@exemplo.com</string>
+    <string name="label_website">site: linkedin.com/in/seuusuario</string>
+    <string name="btn_share">partilhar contato</string>
+    <string name="share_chooser">partilhar via</string>
+
+    <string name="lorem_ipsum">
+        lorem ipsum dolor sit amet, consectetur adipiscing elit. nam in scelerisque sem. mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. maecenas non sodales nisi, vel dictum dolor. class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. sed rhoncus est ut libero porta lobortis. fusce in dictum tellus.
+    </string>
+</resources>
